@@ -1,0 +1,12 @@
+.contactList {
+  padding-left: 20px;
+}
+.item {
+  padding: 10px 10px;
+}
+.number {
+  color: #f80;
+}
+.name {
+  font-weight: 500;
+}
