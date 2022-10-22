@@ -10,3 +10,18 @@
 .name {
   font-weight: 500;
 }
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  padding: 2px 7px;
+  margin-left: 10px;
+  border: 2px solid rgb(0, 88, 110);
+  background-color: #fff;
+  color: #f80;
+}
+.button:hover,
+.button:focus {
+  background-color: rgba(0, 150, 188, 0.2);
+}
